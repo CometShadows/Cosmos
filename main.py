@@ -77,8 +77,8 @@ async def events(Id, ctx, bot):
   #Radiation damage in Radiance zone
   if Functions.Zone(v['Var']['pos'])=='Radiance':
     if random.randint(0,1)==0:
-      mod=random.sample(list(v['Modules']))
-      v['Modules'][mod][0]-=random.randint(75,125)/100
+      mod=random.sample(list(v['Modules']),1)
+      v['Modules'][mod[0]][0]-=random.randint(75,125)/100
   #Returns 0 if no events
   if result[0] == 0:
       event = False
