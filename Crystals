@@ -1,0 +1,70 @@
+SpaceTime
+  Rewind|Passive
+    [Any] After battle or event have a chance for the modules to be unaffected by the battle
+    
+  Freeze|Ability
+    [Attack] Enemy cannot attack or evade
+
+  Speedup|Ability
+    [System] Higher evade for a few rounds
+
+  Foresight|Ability
+    [System] Will not miss the next attack
+
+  Warp|Ability 
+    [System] Instantly travels to destination (with no energy cost)
+
+  Glitch|Passive
+    [Attack] Chance for an action to be repeated twice in battle
+    [Production] Chance to do the same action twice with no cost
+    
+Energy
+  Powered|Passive
+    [Any] Boost the effect of energy based modules
+
+  Supercharged|Passive
+    [Attack] Chance to deal extra damage
+    [Defense] Chance to nullify attack
+
+  Efficiency|Passive
+    [Any] Uses less energy
+  
+  Synchronized|Passive
+    [None] Change its frequency to match the other crystal during fusion
+
+  Stun|Ability
+    [System] Enemy cannot use ability
+
+  Uncertainty|Passive
+    [Any] Chance that opponent attack another module instead of its targetted one
+
+  Capacity|Passive
+    [Storage] Boosted max energy
+
+  Unstable|Passive
+    [Attack] Chance for increased or decreased damage each round
+    [Defense] Chance for increase or decreased defense each round
+    [Production] Chance for increased or decreased energy production
+    [System] Boosts or nerfs system randomly
+
+Matter
+  Duplicate|Passive
+    [Production] Chance to get extra materials when collecting
+
+  Simplify|Passive
+    [Any] Use less material when crafting or repairing
+
+  Boosted|Passive
+    [Any] Boost the effect of physical modules
+
+  Reinforced|Passive
+    [Any] Less damage recieved
+
+  Unbreaking|Passive
+    [None] Less chance for crystal to break
+
+  Complement|Passive
+    [None] Higher chance for fusion success
+
+  Crystallized|Passive
+    [None] Uses less shards in fusion, equip, and unequip
